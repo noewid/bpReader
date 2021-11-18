@@ -1,0 +1,6 @@
+"PARAMETER_TYPE"|"CATEGORY"|"SUB_CATEGORY"|"DESCRIPTION"|"SCOPE"|"VALUE"|"STATE"|"MODIFICATION_DATE"|"REASON"
+"AMOUNTORDERTHRESHOLD"|"DEFAULT"|""|"Amount-based sell orders are only created if the amount does not exceed the defined percentage of the position value. Beyond that threshold, the order is created as a unit order"|"S1P"|"80"|"ACTIVE"|"2019-06-03"|"Initial value"
+"APPROVAL_WORKFLOW"|"ASSIGN_TAC_TO_TRADECO"|""|"Allows turning on (TRUE) or off (FALSE) the 4-eye approval for the assignment of Target Changes to Trade Coordinations"|"S1P"|"TRUE"|"ACTIVE"|"2019-06-03"|"Initial value"
+"APPROVAL_WORKFLOW"|"CLOSE_TRADECO"|""|"Allows turning on (TRUE) or off (FALSE) the 4-eye approval for the closing of Trade Coordinations"|"S1P"|"TRUE"|"ACTIVE"|"2019-06-03"|"Initial value"
+"APPROVAL_WORKFLOW"|"CREATE_RT"|""|"Allows turning on (TRUE) or off (FALSE) the 4-eye approval for the manual creation of Realignment Triggers en masse "|"S1P"|"TRUE"|"ACTIVE"|"2019-06-03"|"Initial value"
+"APPROVAL_WORKFLOW"|"CREATE_TAC_RT"|""|"Allows turning on (TRUE) or off (FALSE) the 4-eye approval for creation of Target Changes Realignment Triggers"|"S1P"|"TRUE"|"ACTIVE"|"2019-06-03"|"Initial value"
